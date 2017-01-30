@@ -1,8 +1,0 @@
-# gameRenderer
-Java: A game engine built to render a large 2D game level efficiently.
-
-Using features such as chunk loading and unloading out of a 2D array, this engine renders a 2D game environment that has 4 edges and corners with a camera that is central on a player object.
-Currently, the level creation is based off of another one of my projects that creates a random Perlin noise generated fractal and heightmaps the level into a cave like formation.
-The engine also features basic collisions between blocks.
-
-Made by Andrew Duerig
